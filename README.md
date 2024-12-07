@@ -2,7 +2,7 @@
 
 This repository contains stickers from the hit mobile game Honkai Star Rail. The stickers are in Portable Network Graphics (PNG) format and are ready to be used wherever you want.
 
-All stickers are mad by HoyoVerse. No copyright infringement intended.
+All stickers are made by HoyoVerse. No copyright infringement intended.
 
 ## How to download
 
